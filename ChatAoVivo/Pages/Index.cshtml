@@ -1,0 +1,16 @@
+@page
+@using RazorPages.Pages
+@model Login
+
+    <form class="EntryForm" method="post">
+
+    <fieldset>
+        <legend>Insira seu nome aqui</legend>
+        <input type="text" asp-for="user.nome">
+        <br>
+        <input type="file" asp-for="user.profilePhoto"/>
+        <div>
+        <input class="SubmitButton" type="submit" name="entrar">
+        </div>
+     </fieldset>
+ </form>

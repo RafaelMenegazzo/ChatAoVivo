@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChatAoVivo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+530e711d8a0be13d5b04c98ccc4c41371ac8a397")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88d7bf9e779e231c926bb1bbe85b653bffdf36dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChatAoVivo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChatAoVivo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
