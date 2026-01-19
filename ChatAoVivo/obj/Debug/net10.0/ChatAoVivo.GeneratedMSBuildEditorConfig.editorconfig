@@ -22,12 +22,12 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[/home/rafael/Estudos/chatAoVivo/ChatAoVivo/Pages/Views/Login/Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVmlld3MvTG9naW4vTG9naW4uY3NodG1s
+[/home/rafael/Estudos/chatAoVivo/ChatAoVivo/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/rafael/Estudos/chatAoVivo/ChatAoVivo/Pages/Views/Message/message.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVmlld3MvTWVzc2FnZS9tZXNzYWdlLmNzaHRtbA==
+[/home/rafael/Estudos/chatAoVivo/ChatAoVivo/Pages/Message.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTWVzc2FnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/rafael/Estudos/chatAoVivo/ChatAoVivo/Pages/Views/Shared/_LayoutLogin.cshtml]

@@ -16,14 +16,13 @@ if (!app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
 app.UseRouting();
-
 app.UseAuthorization();
 
-app.MapStaticAssets();
-app.MapRazorPages()
-   .WithStaticAssets();
+
+app.MapRazorPages();
+
+
 app.MapHub<HubApp>("/hubApp");
 
 app.Run();

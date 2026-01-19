@@ -91,3 +91,5 @@
 /home/rafael/Estudos/chatAoVivo/ChatAoVivo/obj/Debug/net10.0/ChatAoVivo.pdb
 /home/rafael/Estudos/chatAoVivo/ChatAoVivo/obj/Debug/net10.0/ChatAoVivo.genruntimeconfig.cache
 /home/rafael/Estudos/chatAoVivo/ChatAoVivo/obj/Debug/net10.0/ref/ChatAoVivo.dll
+/home/rafael/Estudos/chatAoVivo/ChatAoVivo/obj/Debug/net10.0/ChatAoVivo.sourcelink.json
+/home/rafael/Estudos/chatAoVivo/ChatAoVivo/obj/Debug/net10.0/compressed/dxrb05k013-{0}-5ipweew5fc-5ipweew5fc.gz
