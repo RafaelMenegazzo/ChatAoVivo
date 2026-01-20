@@ -12,14 +12,18 @@ namespace RazorPages.Pages
         [BindProperty]
         public User? user{get;set;}
         public void OnGet()
-        {
 
+        {
+           
             
         }
 
+        [ValidateAntiForgeryToken]
         public IActionResult OnPost()
-        { 
-            return RedirectToPage("./Chat");
+        {
+            Console.WriteLine("Nome: " + user?.nome);
+             
+            return RedirectToPage("Chat");
         }
 
         private byte[] ImgConversor()
