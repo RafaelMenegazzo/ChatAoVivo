@@ -18,12 +18,8 @@ namespace RazorPages.Pages
         }
 
         public IActionResult OnPost()
-        {
-
-          
-            
-
-            return RedirectToPage("Message");
+        { 
+            return RedirectToPage("./Chat");
         }
 
         private byte[] ImgConversor()

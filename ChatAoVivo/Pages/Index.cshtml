@@ -1,15 +1,19 @@
 @page
 @using RazorPages.Pages
 @model Login
+@{
+    Layout = "_Layout";
+}
 
     <form class="EntryForm" method="post" enctype="multipart/form-data">
 
     <fieldset>
         <legend>Insira seu nome aqui</legend>
-        <input type="text" asp-for="user.nome">
+        <input type="text">
         <br>
-        <input type="file" asp-for="user.profilePhoto"/>
+        <input type="file"/>
         <div>
+         @Html.AntiForgeryToken()
         <input class="SubmitButton" type="submit" name="entrar">
         </div>
      </fieldset>
