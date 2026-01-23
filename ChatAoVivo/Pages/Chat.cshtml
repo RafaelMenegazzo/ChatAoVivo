@@ -1,9 +1,36 @@
 @page
 @using RazorPages.Pages
+@using System
 @model Chat
 
 @{
     Layout = "_Layout";
+
+
+}
+@if (TempData.ContainsKey("UserName"))
+{
+
+    try
+    {
+        
+    var nome = (string) TempData["UserName"];
+
+    if(nome != null)
+    {
+                <h2>Bem vindo, @nome!</h2>
+    }
+    else
+    {
+        <h2>Nome nulo</h2>
+    }
+    }
+    catch (Exception e)
+    {
+        
+    }
+
+
 }
 
 <div class="container">
@@ -23,3 +50,9 @@
 </fieldset>
 </div>
 </div>
+
+@section Scripts{
+    <script src="~/js/site.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="~/js/chat.js"></script>
+} 

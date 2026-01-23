@@ -10,7 +10,7 @@ namespace RazorPages.Pages
     public class Login : PageModel
     {
         [BindProperty]
-        public User? user{get;set;}
+        public User Us { get; set; } = new User();
         public void OnGet()
 
         {
@@ -21,8 +21,14 @@ namespace RazorPages.Pages
         [ValidateAntiForgeryToken]
         public IActionResult OnPost()
         {
-            Console.WriteLine("Nome: " + user?.nome);
-             
+
+            if (!ModelState.IsValid)
+            {
+                return Page();
+            }
+            
+            TempData["UserName"] = Us.Nome;
+
             return RedirectToPage("Chat");
         }
 

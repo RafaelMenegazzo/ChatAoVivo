@@ -5,8 +5,8 @@ namespace ChatAoVivo.Models
 {
     public class User
     {
-        public string? nome{get; set;}
-        public IFormFile profileImage { get; set; }
-        public byte[]? profilePhoto{get; set;}
+        public string Nome{get; set;}
+        public IFormFile ProfileImage { get; set; }
+        public byte[]? ProfilePhoto{get; set;}
     }
 }
