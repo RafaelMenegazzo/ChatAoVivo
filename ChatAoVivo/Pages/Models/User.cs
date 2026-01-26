@@ -1,12 +1,20 @@
+using ChatAoVivo.Pages.Models;
 using System;
 
 
-namespace ChatAoVivo.Models
+namespace ChatAoVivo.Pages.Models
 {
     public class User
     {
-        public string Nome{get; set;}
-        public IFormFile ProfileImage { get; set; }
-        public byte[]? ProfilePhoto{get; set;}
+        public string Nome {get; set;}
+        public Imagem img {get; set;} = new Imagem();
+
+        public User()
+        {
+            Nome = null;
+
+        }
+
     }
+
 }

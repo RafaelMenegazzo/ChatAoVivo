@@ -12,6 +12,7 @@
         <legend>Insira seu nome aqui</legend>
         <input type="text" asp-for="Us.Nome">
         <br>
+        <input type="file" asp-for="Us.img.ImageFile"/>
         <div>
          @Html.AntiForgeryToken()
         <input class="SubmitButton" type="submit" name="entrar">
