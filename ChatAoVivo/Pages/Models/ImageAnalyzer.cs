@@ -9,7 +9,7 @@ namespace ChatAoVivo.Pages.Models
         {
 
             //Extension validation for image files
-            List<string> validExtensions = new List<string>() {".jpeg", ".png", ".gif", ".jpg"};
+            List<string> validExtensions = new List<string>() {".png", ".gif", ".jpg"};
             string extension = Path.GetExtension(file.FileName);
 
             if (!validExtensions.Contains(extension))
@@ -28,12 +28,16 @@ namespace ChatAoVivo.Pages.Models
             //name changing for safety
 
             string fileName = Guid.NewGuid().ToString() + extension;
-            string filepath = Path.Combine(Directory.GetCurrentDirectory(), "Images");
+            string path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot","Images");
+
 
             //using will close the FileStream Automatically
-            using FileStream stream = new FileStream(Path.Combine(filepath,fileName), FileMode.Create);
 
+
+            using FileStream stream = new FileStream(Path.Combine(path,fileName), FileMode.Create);
             file.CopyTo(stream);
+
+
 
             return fileName;
 

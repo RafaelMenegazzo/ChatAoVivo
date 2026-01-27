@@ -1,5 +1,11 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\Images\05aecd12-1eba-4667-b0fe-fcd276ee8330.jpg
+wwwroot\Images\3f9beab4-6982-421e-ae1f-4027113b86bf.jpg
+wwwroot\Images\58c77657-87b7-42cc-ab38-75c7802b8308.jpg
+wwwroot\Images\64a7ab55-6a13-4b4e-ab7d-396103ce7c68.jpg
+wwwroot\Images\b194d304-eac2-4873-8827-a677cebcacd8.jpg
+wwwroot\Images\c96a6eff-ecdd-4bdc-8fdd-2a38a54760ed.jpg
 wwwroot\js\chat.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
@@ -18,6 +24,10 @@ wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-theme.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-theme.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-theme.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-theme.min.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
@@ -49,6 +59,8 @@ wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 wwwroot\lib\bootstrap\LICENSE
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
 wwwroot\lib\jquery-validation\dist\additional-methods.js
 wwwroot\lib\jquery-validation\dist\additional-methods.min.js
@@ -62,12 +74,6 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
-wwwroot\lib\bootstrap\dist\css\bootstrap-theme.css
-wwwroot\lib\bootstrap\dist\css\bootstrap-theme.css.map
-wwwroot\lib\bootstrap\dist\css\bootstrap-theme.min.css
-wwwroot\lib\bootstrap\dist\css\bootstrap-theme.min.css.map
-wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
-wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 C:\Users\User\source\repos\ChatAoVivo\ChatAoVivo\wwwroot\lib\jquery\LICENSE.txt
 C:\Users\User\source\repos\ChatAoVivo\ChatAoVivo\wwwroot\lib\jquery\dist\jquery.slim.min.map
 C:\Users\User\source\repos\ChatAoVivo\ChatAoVivo\wwwroot\lib\jquery\dist\jquery.slim.min.js

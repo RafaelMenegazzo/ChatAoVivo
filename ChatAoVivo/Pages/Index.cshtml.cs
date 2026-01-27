@@ -31,7 +31,9 @@ namespace RazorPages.Pages
         {
             //This command will upload the image and return the name of the image inside the object User.img
             Us.img.ImageName = new ImageAnalyzer().upload(Us.img.ImageFile);
-            TempData["UserName"] = Us.img.ImageName;
+            TempData["UserName"] = Us.Nome;
+            TempData["UserImg"] = Us.img.ImageName;
+
 
             return RedirectToPage("Chat");
         }

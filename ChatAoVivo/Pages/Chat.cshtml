@@ -8,17 +8,19 @@
 
 
 }
-@if (TempData.ContainsKey("UserName"))
+@if (TempData.ContainsKey("UserName") && TempData.ContainsKey("UserImg"))
 {
 
     try
     {
         
-    var nome = (string) TempData["UserName"];
+        var nome = (string) TempData["UserName"];
+        var img = (string)TempData["UserImg"];
 
     if(nome != null)
     {
-                <h2>Bem vindo, @nome!</h2>
+                <h2>Bem vindo, @nome, @img!</h2>
+                <img src="58c77657-87b7-42cc-ab38-75c7802b8308.jpg" alt="user-img">
     }
     else
     {
@@ -33,6 +35,7 @@
 
 }
 
+
 <div class="container">
     <div>
         <ul id="messageList"></ul>
@@ -40,8 +43,6 @@
 <div class="messageRow">
 <fieldset>
 
-
-    <img src="" alt="user-img">
     <form method="get">
     <input type="text" id="message" placeholder="Digite sua mensagem">
     <input type="submit" id="EnviarMessagem" value="Enviar"/>
