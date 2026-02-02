@@ -15,12 +15,14 @@
     {
         
         var nome = (string) TempData["UserName"];
-        var img = (string)TempData["UserImg"];
+        var img = (string) TempData["UserImg"];
+        TempData.Keep("UserName");
+        TempData.Keep("UserImg");
 
     if(nome != null)
     {
-                <h2>Bem vindo, @nome, @img!</h2>
-                <img src="58c77657-87b7-42cc-ab38-75c7802b8308.jpg" alt="user-img">
+                <h2>Bem vindo, @nome</h2>
+             
     }
     else
     {
@@ -43,7 +45,7 @@
 <div class="messageRow">
 <fieldset>
 
-    <form method="get">
+    <form method="post">
     <input type="text" id="message" placeholder="Digite sua mensagem">
     <input type="submit" id="EnviarMessagem" value="Enviar"/>
     </form>

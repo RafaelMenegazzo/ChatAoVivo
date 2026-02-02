@@ -66,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -75,19 +75,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ImageAnalyzer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\Models\\ImageAnalyzer.cs",
-              "RelativeDocumentMoniker": "ChatAoVivo\\Pages\\Models\\ImageAnalyzer.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\Models\\ImageAnalyzer.cs",
-              "RelativeToolTip": "ChatAoVivo\\Pages\\Models\\ImageAnalyzer.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAASwAwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T15:41:05.308Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -127,6 +114,31 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chat.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\Chat.cshtml",
+              "RelativeDocumentMoniker": "ChatAoVivo\\Pages\\Chat.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\Chat.cshtml",
+              "RelativeToolTip": "ChatAoVivo\\Pages\\Chat.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-22T15:51:14.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImageAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\Models\\ImageAnalyzer.cs",
+              "RelativeDocumentMoniker": "ChatAoVivo\\Pages\\Models\\ImageAnalyzer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\Models\\ImageAnalyzer.cs",
+              "RelativeToolTip": "ChatAoVivo\\Pages\\Models\\ImageAnalyzer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAASwAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T15:41:05.308Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Program.cs",
@@ -160,19 +172,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-22T16:26:20.44Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Chat.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\Chat.cshtml",
-              "RelativeDocumentMoniker": "ChatAoVivo\\Pages\\Chat.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\Chat.cshtml",
-              "RelativeToolTip": "ChatAoVivo\\Pages\\Chat.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-22T15:51:14.896Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",

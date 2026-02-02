@@ -7,5 +7,7 @@ namespace ChatAoVivo.Pages.Models
     {
         public string? Msg {get;set;}
         public DateTime SendDate{get; set;}
+        
+        public User user {get; set;} = new User();
     }
 }   
