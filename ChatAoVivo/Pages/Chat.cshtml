@@ -1,5 +1,7 @@
 @page
+@using Newtonsoft.Json
 @using RazorPages.Pages
+@using ChatAoVivo.Pages.Models
 @using System
 @model Chat
 
@@ -13,12 +15,24 @@
 
     try
     {
-        
-        var nome = (string) TempData["UserName"];
-        var img = (string) TempData["UserImg"];
+        var Json = TempData["Mensagem"].ToString();
+        List<Message> msg = JsonConvert.DeserializeObject<List<Message>>(Json);
+        var nome = TempData["UserName"].ToString();
+        var img =  TempData["UserImg"].ToString();
         TempData.Keep("UserName");
         TempData.Keep("UserImg");
 
+        <ul>
+            @foreach(Message message in msg)
+            {
+                <li>
+                    <img src="data:image/png;base64,@message.user.img.ImageName" alt="User Image" width="50" height="50"/>
+                    <strong>@message.user.Nome:</strong> @message.Msg;
+                </li>
+            }
+        )
+            {}
+        </ul>
     if(nome != null)
     {
                 <h2>Bem vindo, @nome</h2>
@@ -38,10 +52,6 @@
 }
 
 
-<div class="container">
-    <div>
-        <ul id="messageList"></ul>
-    </div>
 <div class="messageRow">
 <fieldset>
 
