@@ -1,5 +1,8 @@
 @page
+@using System.Text.Json
+@using Newtonsoft.Json
 @using RazorPages.Pages
+@using ChatAoVivo.Pages.Models
 @using System
 @model Chat
 
@@ -8,26 +11,30 @@
 
 
 }
-@if (TempData.ContainsKey("UserName") && TempData.ContainsKey("UserImg"))
+@if (TempData.ContainsKey("Mensagens"))
 {
-
+    <p>jsonString</p>
     try
     {
-        
-        var nome = (string) TempData["UserName"];
-        var img = (string) TempData["UserImg"];
-        TempData.Keep("UserName");
-        TempData.Keep("UserImg");
+        var jsonString = TempData["Mensagens"]?.ToString();
+        List<Message> msg = JsonConvert.DeserializeObject<List<Message>>(jsonString);
+        TempData.Keep("Mensagens");
 
-    if(nome != null)
-    {
-                <h2>Bem vindo, @nome</h2>
-             
-    }
-    else
-    {
-        <h2>Nome nulo</h2>
-    }
+        <p>@jsonString</p>
+
+
+
+        <ul>
+            @foreach (Message sms in msg)
+            {
+                <li>@sms.user.Nome: @sms.Msg
+
+                </li>
+            }
+
+        </ul>
+
+   
     }
     catch (Exception e)
     {
@@ -37,21 +44,22 @@
 
 }
 
+@if(!TempData.ContainsKey("Mensagens"))
+{
+    <p>Não há mensagens</p>
+}
 
-<div class="container">
-    <div>
-        <ul id="messageList"></ul>
-    </div>
+
+
 <div class="messageRow">
 <fieldset>
 
-    <form method="post">
-    <input type="text" id="message" placeholder="Digite sua mensagem">
+    <form method="post" asp-controller="Chat" asp-action="salvarMensagens">
+    <input type="text" name="message" id="message" placeholder="Digite sua mensagem">
     <input type="submit" id="EnviarMessagem" value="Enviar"/>
     </form>
 
 </fieldset>
-</div>
 </div>
 
 @section Scripts{

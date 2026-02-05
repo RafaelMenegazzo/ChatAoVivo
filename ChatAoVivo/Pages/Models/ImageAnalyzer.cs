@@ -8,6 +8,9 @@ namespace ChatAoVivo.Pages.Models
         public string upload(IFormFile file)
         {
 
+            if(file != null)
+            {
+
             //Extension validation for image files
             List<string> validExtensions = new List<string>() {".png", ".gif", ".jpg"};
             string extension = Path.GetExtension(file.FileName);
@@ -40,6 +43,9 @@ namespace ChatAoVivo.Pages.Models
 
 
             return fileName;
+            }
+
+            return "";
 
 
         }
