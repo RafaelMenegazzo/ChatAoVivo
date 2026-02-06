@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChatAoVivo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3209842158c312815a73e36b57b383bc171059e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5d68f155d899aeae6a797dda3f807fe6b62fc67")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChatAoVivo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChatAoVivo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using ChatAoVivo.Pages.Models;
 using Newtonsoft.Json;
+using System.Text.Json;
 
 
 namespace RazorPages.Pages
