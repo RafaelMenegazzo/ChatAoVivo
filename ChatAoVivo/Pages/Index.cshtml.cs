@@ -1,8 +1,10 @@
 using ChatAoVivo.Pages.Models;
+using Elfie.Serialization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 using System;
+using static System.Net.Mime.MediaTypeNames;
 
 
 namespace RazorPages.Pages
@@ -22,8 +24,8 @@ namespace RazorPages.Pages
         public void OnGet()
 
         {
-           
-            
+
+        
         }
 
         [ValidateAntiForgeryToken]

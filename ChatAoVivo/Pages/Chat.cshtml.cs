@@ -2,7 +2,7 @@ using System;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using ChatAoVivo.Pages.Models;
-using System.Text.Json;
+using Newtonsoft.Json;
 
 
 namespace RazorPages.Pages
@@ -10,7 +10,7 @@ namespace RazorPages.Pages
 
     public class Chat : PageModel
     {
-        List<Message> mensagens = new List<Message>();
+
         public void OnGet()
         {
 
@@ -28,10 +28,11 @@ namespace RazorPages.Pages
 
             System.Diagnostics.Debug.WriteLine("Mensagem recebida: " + msg.Msg +"//" + msg.user.Nome);
 
+            ListaSingleton lista = ListaSingleton.getInstance();
+            lista.mensagens.Add(msg);
 
-            mensagens.Add(msg);
 
-            TempData["Mensagens"] = JsonSerializer.Serialize<Message>(msg);
+            TempData["Mensagens"] = JsonConvert.SerializeObject(lista.mensagens);
         }
 
 
@@ -39,6 +40,7 @@ namespace RazorPages.Pages
         {
 
             salvarMensagens();
+
             return RedirectToPage("Chat");
         }
 

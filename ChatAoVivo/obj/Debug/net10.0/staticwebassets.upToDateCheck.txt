@@ -1,14 +1,8 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
-wwwroot\Images\05aecd12-1eba-4667-b0fe-fcd276ee8330.jpg
-wwwroot\Images\189c26cd-67d9-4746-b3d6-eee53f1b4a7d.jpg
-wwwroot\Images\3f9beab4-6982-421e-ae1f-4027113b86bf.jpg
-wwwroot\Images\58c77657-87b7-42cc-ab38-75c7802b8308.jpg
-wwwroot\Images\64a7ab55-6a13-4b4e-ab7d-396103ce7c68.jpg
-wwwroot\Images\b194d304-eac2-4873-8827-a677cebcacd8.jpg
-wwwroot\Images\c96a6eff-ecdd-4bdc-8fdd-2a38a54760ed.jpg
-wwwroot\Images\cde81aff-0cee-4801-a81d-183b53e647ca.jpg
-wwwroot\Images\d11c9b1c-ca90-41ea-a566-a173ca1d6c3b.jpg
+wwwroot\Images\0ad7cc4d-bae7-42de-9b80-bcebe448925b.jpg
+wwwroot\Images\4af84e61-a7b8-47d5-b73e-923d259c5f09.jpg
+wwwroot\Images\9d9a58f8-7df3-43e2-804f-2cc18ae7384c.jpg
 wwwroot\js\chat.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css

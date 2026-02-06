@@ -13,24 +13,24 @@
 }
 @if (TempData.ContainsKey("Mensagens"))
 {
-    <p>jsonString</p>
+   
     try
     {
         var jsonString = TempData["Mensagens"]?.ToString();
-        List<Message> msg = JsonConvert.DeserializeObject<List<Message>>(jsonString);
+        var msg = JsonConvert.DeserializeObject<List<Message>>(jsonString);
         TempData.Keep("Mensagens");
 
-        <p>@jsonString</p>
-
-
-
         <ul>
-            @foreach (Message sms in msg)
+            
+            @foreach(Message sms in msg)
             {
-                <li>@sms.user.Nome: @sms.Msg
-
-                </li>
+                
+            <li>
+                <img src="C:\Users\User\source\repos\ChatAoVivo\ChatAoVivo\wwwroot\Images\@sms.user.img.ImageFile" alt="User-img"/>
+                @sms.user.Nome: @sms.Msg
+            </li>
             }
+            
 
         </ul>
 
