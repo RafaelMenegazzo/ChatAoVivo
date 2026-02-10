@@ -3,36 +3,55 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|c:\\users\\user\\source\\repos\\chataovivo\\chataovivo\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|solutionrelative:chataovivo\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|c:\\users\\user\\source\\repos\\chataovivo\\chataovivo\\pages\\chat.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|solutionrelative:chataovivo\\pages\\chat.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|c:\\users\\user\\source\\repos\\chataovivo\\chataovivo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|solutionrelative:chataovivo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|c:\\users\\user\\source\\repos\\chataovivo\\chataovivo\\pages\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|solutionrelative:chataovivo\\pages\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|c:\\users\\user\\source\\repos\\chataovivo\\chataovivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|solutionrelative:chataovivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|c:\\users\\user\\source\\repos\\chataovivo\\chataovivo\\pages\\server\\serverconect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|solutionrelative:chataovivo\\pages\\server\\serverconect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|c:\\users\\user\\source\\repos\\chataovivo\\chataovivo\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|solutionrelative:chataovivo\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|c:\\users\\user\\source\\repos\\chataovivo\\chataovivo\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|solutionrelative:chataovivo\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|c:\\users\\user\\source\\repos\\chataovivo\\chataovivo\\pages\\chat.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|solutionrelative:chataovivo\\pages\\chat.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|c:\\users\\user\\source\\repos\\chataovivo\\chataovivo\\bundleconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|solutionrelative:chataovivo\\bundleconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|c:\\users\\user\\source\\repos\\chataovivo\\chataovivo\\pages\\models\\listasingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|solutionrelative:chataovivo\\pages\\models\\listasingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|c:\\users\\user\\source\\repos\\chataovivo\\chataovivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|solutionrelative:chataovivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\10.0.102\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|c:\\users\\user\\source\\repos\\chataovivo\\chataovivo\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|solutionrelative:chataovivo\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|c:\\users\\user\\source\\repos\\chataovivo\\chataovivo\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|solutionrelative:chataovivo\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|c:\\users\\user\\source\\repos\\chataovivo\\chataovivo\\pages\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|solutionrelative:chataovivo\\pages\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|c:\\users\\user\\source\\repos\\chataovivo\\chataovivo\\pages\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|solutionrelative:chataovivo\\pages\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|c:\\users\\user\\source\\repos\\chataovivo\\chataovivo\\pages\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|solutionrelative:chataovivo\\pages\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|c:\\users\\user\\source\\repos\\chataovivo\\chataovivo\\pages\\models\\imagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,24 +62,12 @@
       "RelativeMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|solutionrelative:chataovivo\\pages\\models\\imageanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|c:\\users\\user\\source\\repos\\chataovivo\\chataovivo\\chataovivo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|solutionrelative:chataovivo\\chataovivo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|c:\\users\\user\\source\\repos\\chataovivo\\chataovivo\\pages\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|solutionrelative:chataovivo\\pages\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|c:\\users\\user\\source\\repos\\chataovivo\\chataovivo\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|solutionrelative:chataovivo\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|c:\\users\\user\\source\\repos\\chataovivo\\chataovivo\\chataovivo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|solutionrelative:chataovivo\\chataovivo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|c:\\users\\user\\source\\repos\\chataovivo\\chataovivo\\bundleconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F155815A-B778-2423-E8BE-DE5C089E2C51}|ChatAoVivo\\ChatAoVivo.csproj|solutionrelative:chataovivo\\bundleconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +77,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,40 +89,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Chat.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\Chat.cshtml",
-              "RelativeDocumentMoniker": "ChatAoVivo\\Pages\\Chat.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\Chat.cshtml*",
-              "RelativeToolTip": "ChatAoVivo\\Pages\\Chat.cshtml*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAABxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-22T15:51:14.896Z",
+              "DocumentIndex": 3,
+              "Title": "ServerConect.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\Server\\ServerConect.cs",
+              "RelativeDocumentMoniker": "ChatAoVivo\\Pages\\Server\\ServerConect.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\Server\\ServerConect.cs",
+              "RelativeToolTip": "ChatAoVivo\\Pages\\Server\\ServerConect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T19:13:09.961Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Imagem.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\Models\\Imagem.cs",
-              "RelativeDocumentMoniker": "ChatAoVivo\\Pages\\Models\\Imagem.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\Models\\Imagem.cs",
-              "RelativeToolTip": "ChatAoVivo\\Pages\\Models\\Imagem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Program.cs",
+              "RelativeDocumentMoniker": "ChatAoVivo\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Program.cs*",
+              "RelativeToolTip": "ChatAoVivo\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T15:26:15.758Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Chat.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\Chat.cshtml.cs",
-              "RelativeDocumentMoniker": "ChatAoVivo\\Pages\\Chat.cshtml.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\Chat.cshtml.cs",
-              "RelativeToolTip": "ChatAoVivo\\Pages\\Chat.cshtml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T15:42:19.05Z",
+              "WhenOpened": "2026-01-27T01:31:13.738Z",
               "EditorCaption": ""
             },
             {
@@ -133,7 +128,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "bundleconfig.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\bundleconfig.json",
+              "RelativeDocumentMoniker": "ChatAoVivo\\bundleconfig.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\bundleconfig.json",
+              "RelativeToolTip": "ChatAoVivo\\bundleconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-27T01:31:15.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chat.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\Chat.cshtml.cs",
+              "RelativeDocumentMoniker": "ChatAoVivo\\Pages\\Chat.cshtml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\Chat.cshtml.cs",
+              "RelativeToolTip": "ChatAoVivo\\Pages\\Chat.cshtml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T15:42:19.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChatAoVivo\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\Index.cshtml",
+              "RelativeToolTip": "ChatAoVivo\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-22T16:26:20.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ChatAoVivo\\Pages\\_ViewImports.cshtml",
@@ -146,33 +180,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "ChatAoVivo\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\Index.cshtml",
-              "RelativeToolTip": "ChatAoVivo\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-22T16:26:20.44Z",
+              "DocumentIndex": 7,
+              "Title": "Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\10.0.102\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.102\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\10.0.102\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.102\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ViewState": "AgIAAKACAAAAAAAAAAAmwLgCAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-02-10T18:58:19.505Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "ChatAoVivo\\Pages\\Index.cshtml.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\Index.cshtml.cs",
               "RelativeToolTip": "ChatAoVivo\\Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAwBsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAMwC8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T15:51:20.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T15:51:20.479Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ChatAoVivo\\Pages\\Shared\\_Layout.cshtml",
@@ -180,20 +213,19 @@
               "RelativeToolTip": "ChatAoVivo\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-23T16:04:59.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-23T16:04:59.498Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ImageAnalyzer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\Models\\ImageAnalyzer.cs",
-              "RelativeDocumentMoniker": "ChatAoVivo\\Pages\\Models\\ImageAnalyzer.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\Models\\ImageAnalyzer.cs",
-              "RelativeToolTip": "ChatAoVivo\\Pages\\Models\\ImageAnalyzer.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T15:41:05.308Z"
+              "DocumentIndex": 10,
+              "Title": "Chat.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\Chat.cshtml",
+              "RelativeDocumentMoniker": "ChatAoVivo\\Pages\\Chat.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\Chat.cshtml",
+              "RelativeToolTip": "ChatAoVivo\\Pages\\Chat.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-22T15:51:14.896Z"
             },
             {
               "$type": "Document",
@@ -209,20 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Program.cs",
-              "RelativeDocumentMoniker": "ChatAoVivo\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Program.cs",
-              "RelativeToolTip": "ChatAoVivo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T01:31:13.738Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Message.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\Models\\Message.cs",
               "RelativeDocumentMoniker": "ChatAoVivo\\Pages\\Models\\Message.cs",
@@ -235,6 +254,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "Imagem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\Models\\Imagem.cs",
+              "RelativeDocumentMoniker": "ChatAoVivo\\Pages\\Models\\Imagem.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\Models\\Imagem.cs",
+              "RelativeToolTip": "ChatAoVivo\\Pages\\Models\\Imagem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T15:26:15.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ImageAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\Models\\ImageAnalyzer.cs",
+              "RelativeDocumentMoniker": "ChatAoVivo\\Pages\\Models\\ImageAnalyzer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\Pages\\Models\\ImageAnalyzer.cs",
+              "RelativeToolTip": "ChatAoVivo\\Pages\\Models\\ImageAnalyzer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T15:41:05.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "ChatAoVivo.csproj",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\ChatAoVivo.csproj",
               "RelativeDocumentMoniker": "ChatAoVivo\\ChatAoVivo.csproj",
@@ -246,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "ChatAoVivo\\ScaffoldingReadMe.txt",
@@ -255,18 +298,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2026-01-27T01:31:11.577Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "bundleconfig.json",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\bundleconfig.json",
-              "RelativeDocumentMoniker": "ChatAoVivo\\bundleconfig.json",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ChatAoVivo\\ChatAoVivo\\bundleconfig.json",
-              "RelativeToolTip": "ChatAoVivo\\bundleconfig.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-27T01:31:15.584Z"
             }
           ]
         }

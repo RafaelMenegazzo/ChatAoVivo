@@ -1,8 +1,9 @@
-using System;
+using ChatAoVivo.Pages.Models;
+using ChatAoVivo.Pages.Server;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using ChatAoVivo.Pages.Models;
 using Newtonsoft.Json;
+using System;
 using System.Text.Json;
 
 
@@ -14,6 +15,7 @@ namespace RazorPages.Pages
 
         public void OnGet()
         {
+            ServerConect.Conectar();
 
         }
 

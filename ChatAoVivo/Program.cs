@@ -1,4 +1,7 @@
 using ChatAoVivo.Hubs;
+using ChatAoVivo.Pages.Server;  
+
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
